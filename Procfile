@@ -1,1 +1,1 @@
-web: gunicorn rahul_blog.wsgi
+web: gunicorn Rahul_Blog.wsgi
